@@ -1,2 +1,2 @@
 # Assembly-String-Functions
-Project for the development of an assembly MIPS code for example string functions.
+Project for the development of an assembly MIPS code for simple string functions.
